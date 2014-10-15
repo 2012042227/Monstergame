@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# weeed
+#
+
+projectname: weeed
+vendorid: com.mycompany
+mainmodule: com.mycompany.weeed
